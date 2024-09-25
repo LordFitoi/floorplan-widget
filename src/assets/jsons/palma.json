@@ -13,7 +13,7 @@
         },
         {
             "id": "penthouse",
-            "title": "PENTHOUSES",
+            "title": "PENTHOUSE",
             "svgUrl": "/src/assets/imgs/palma/PH/floor.svg"    
         }
     ],
@@ -186,7 +186,7 @@
         },
         {
             "id": "3_304",
-            "title": "RESIDENCE 04",
+            "title": "RESIDENCE 304",
             "level": "LEVELS 3",
             "imgUrl": "/src/assets/imgs/palma/3/304.png",
             "rooms": "1 Bedroom / 1 Bathroom",
@@ -197,7 +197,7 @@
         },
         {
             "id": "3_305",
-            "title": "RESIDENCE 05",
+            "title": "RESIDENCE 305",
             "level": "LEVELS 3",
             "imgUrl": "/src/assets/imgs/palma/3/305.png",
             "rooms": "1 Bedroom / 1 Bathroom",
@@ -208,7 +208,7 @@
         },
         {
             "id": "3_307",
-            "title": "RESIDENCE 07",
+            "title": "RESIDENCE 307",
             "level": "LEVELS 3",
             "imgUrl": "/src/assets/imgs/palma/3/307.png",
             "rooms": "1 Bedroom / 1 Bathroom",
@@ -219,7 +219,7 @@
         },
         {
             "id": "3_308",
-            "title": "RESIDENCE 08",
+            "title": "RESIDENCE 308",
             "level": "LEVELS 3",
             "imgUrl": "/src/assets/imgs/palma/3/308.png",
             "rooms": "1 Bedroom / 1 Bathroom",
@@ -230,7 +230,7 @@
         },
         {
             "id": "3_309",
-            "title": "RESIDENCE 09",
+            "title": "RESIDENCE 309",
             "level": "LEVELS 3",
             "imgUrl": "/src/assets/imgs/palma/3/309.png",
             "rooms": "1 Bedroom / 1 Bathroom",
@@ -241,7 +241,7 @@
         },
         {
             "id": "3_310",
-            "title": "RESIDENCE 10",
+            "title": "RESIDENCE 310",
             "level": "LEVELS 3",
             "imgUrl": "/src/assets/imgs/palma/3/310.png",
             "rooms": "Studio / 1 Bathroom",
@@ -264,7 +264,7 @@
 
         {
             "id": "PH_01",
-            "title": "RESIDENCE PH-1",
+            "title": "PENTHOUSE 01",
             "level": "PENTHOUSE",
             "imgUrl": "/src/assets/imgs/palma/PH/PH1.png",
             "rooms": "2 Bedrooms / 2 Bathrooms",
@@ -275,7 +275,7 @@
         },
         {
             "id": "PH_02",
-            "title": "RESIDENCE PH-2",
+            "title": "PENTHOUSE 02",
             "level": "PENTHOUSE",
             "imgUrl": "/src/assets/imgs/palma/PH/PH2.png",
             "rooms": "2 Bedrooms / 2 Bathrooms",
@@ -286,7 +286,7 @@
         },
         {
             "id": "PH_03",
-            "title": "RESIDENCE PH-3",
+            "title": "PENTHOUSE 03",
             "level": "PENTHOUSE",
             "imgUrl": "/src/assets/imgs/palma/PH/PH3.png",
             "rooms": "2 Bedrooms / 2 Bathrooms",
@@ -297,7 +297,7 @@
         },
         {
             "id": "PH_04",
-            "title": "RESIDENCE PH-4",
+            "title": "PENTHOUSE 04",
             "level": "PENTHOUSE",
             "imgUrl": "/src/assets/imgs/palma/PH/PH4.png",
             "rooms": "1 Bedroom / 1 Bathroom",
@@ -308,7 +308,7 @@
         },
         {
             "id": "PH_05",
-            "title": "RESIDENCE PH-5",
+            "title": "PENTHOUSE 05",
             "level": "PENTHOUSE",
             "imgUrl": "/src/assets/imgs/palma/PH/PH5.png",
             "rooms": "1 Bedroom / 1 Bathroom",
@@ -319,7 +319,7 @@
         },
         {
             "id": "PH_06",
-            "title": "RESIDENCE PH-6",
+            "title": "PENTHOUSE 06",
             "level": "PENTHOUSE",
             "imgUrl": "/src/assets/imgs/palma/PH/PH6.png",
             "rooms": "2 Bedrooms / 2 Bathrooms",
@@ -330,7 +330,7 @@
         },
         {
             "id": "PH_07",
-            "title": "RESIDENCE PH-7",
+            "title": "PENTHOUSE 07",
             "level": "PENTHOUSE",
             "imgUrl": "/src/assets/imgs/palma/PH/PH7.png",
             "rooms": "2 Bedrooms / 2 Bathrooms",
